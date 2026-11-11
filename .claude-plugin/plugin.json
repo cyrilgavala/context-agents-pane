@@ -1,0 +1,6 @@
+{
+  "name": "context-agents-pane",
+  "version": "0.1.0",
+  "description": "Pane beside the chat showing the context window usage and the agents running in this session",
+  "types": "./types/index.d.ts"
+}
