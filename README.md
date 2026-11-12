@@ -31,6 +31,18 @@ The pane refreshes every 2 seconds.
 
 ## Install
 
+### From the marketplace (Claude Code 2.1.275 or later)
+
+Type this at the prompt of a terminal session:
+
+```
+/plugin install context-agents-pane --marketplace cyrilgavala/context-agents-pane
+```
+
+Answer `y` to add the marketplace, then pick a scope. The plugin is active straight after.
+
+### From a clone
+
 You need Claude Code with plugin support and [Git](https://git-scm.com/).
 
 1. Clone the repository:

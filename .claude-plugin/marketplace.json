@@ -1,0 +1,12 @@
+{
+  "name": "cyrilgavala",
+  "owner": { "name": "Cyril Gavala" },
+  "metadata": { "description": "Claude Code mods by Cyril Gavala" },
+  "plugins": [
+    {
+      "name": "context-agents-pane",
+      "source": "./",
+      "description": "Pane beside the chat showing the context window usage and the agents running in this session"
+    }
+  ]
+}
